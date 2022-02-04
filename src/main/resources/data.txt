@@ -1,0 +1,11 @@
+dog_breed;dog_name;dog_age;friendly
+french bulldog;Terror;5;true
+spitz;Armageddon;12;false
+german shepherd;Nina;2;true
+husky;Ice;4;true
+chihuahua;Doggy;11;false
+pug;Whiskey;7;true
+dobermann;Magnum;4;false
+french bulldog;Anti Terror;6;true
+german shepherd;Nana;7;false
+jack russel;HotDog;10;true
